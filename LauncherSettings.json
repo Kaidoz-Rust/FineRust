@@ -12,10 +12,10 @@
   ],
   "Servers": [
     {
-      "Название сервера": "Test Name | SOLO | DUO",
-      "Ip": "127.0.0.1",
-      "Port": 28015,
-      "QueryPort": 28016
+      "Название сервера": "Fine Rust 240 DEV",
+      "Ip": "s2.hks.network",
+      "Port": 35011,
+      "QueryPort": 35011
     }
   ]
 }
