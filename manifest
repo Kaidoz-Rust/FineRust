@@ -1,0 +1,11 @@
+{
+   "Servers":{
+      "Official":[
+         {
+            "Address":"185.189.255.91",
+            "Port":35990
+         }
+      ],
+      "Banned":[]
+   }
+}
