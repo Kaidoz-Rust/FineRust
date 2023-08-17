@@ -1,6 +1,5 @@
 \doorstop_config.ini:0e319f9a
 \winhttp.dll:81b530cc
-\BepInEx\ErrorLog.log:00000000
 \BepInEx\cache\chainloader_typeloader.dat:766321c0
 \BepInEx\config\BepInEx.cfg:ae1c1ac8
 \BepInEx\core\0Harmony.dll:9ab18d87
@@ -354,7 +353,7 @@
 \BepInEx\interop\UnityEngine.VRModule.dll:ef6b537f
 \BepInEx\interop\UnityEngine.WindModule.dll:59267aa3
 \BepInEx\interop\UnityEngine.XRModule.dll:80428bfe
-\BepInEx\plugins\Rust-Mod.dll:6ed094c0
+\BepInEx\plugins\Rust-Mod.dll:1dfddec2
 \BepInEx\unity-libs\UnityEngine.AccessibilityModule.dll:defe6e8e
 \BepInEx\unity-libs\UnityEngine.AIModule.dll:532feaef
 \BepInEx\unity-libs\UnityEngine.AndroidJNIModule.dll:52360313
