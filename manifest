@@ -2,7 +2,7 @@
    "Servers":{
       "Official":[
          {
-            "Address":"s1.hks.network",
+            "Address":"195.18.27.123",
             "Port":35010
          },
          {
