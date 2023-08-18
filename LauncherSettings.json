@@ -13,7 +13,7 @@
   "Servers": [
     {
       "Название сервера": "Fine Rust 240 DEV",
-      "Ip": "s1.hks.network",
+      "Ip": "195.18.27.123",
       "VersionDev": "240",
       "Port": 35010,
       "QueryPort": 35010
