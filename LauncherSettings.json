@@ -24,13 +24,6 @@
       "VersionDev": "240",
       "Port": 35018,
       "QueryPort": 35018
-    },
-    {
-      "Название сервера": "Fine Rust 240 DEV CLASSIC Х1.5",
-      "Ip": "5.42.211.29",
-      "VersionDev": "240",
-      "Port": 35000,
-      "QueryPort": 35000
     }
   ]
 }
