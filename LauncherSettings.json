@@ -20,10 +20,10 @@
     },
     {
       "Название сервера": "Fine Rust 240 DEV SEMI CLASSIC",
-      "Ip": "185.207.214.179",
+      "Ip": "5.42.211.29",
       "VersionDev": "240",
       "Port": 35018,
-      "QueryPort": 35018
+      "QueryPort": 35000
     }
   ]
 }
