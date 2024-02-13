@@ -19,6 +19,13 @@
       "QueryPort": 35000
     },
     {
+      "Название сервера": "Fine Rust | AIM TRENING",
+      "Ip": "37.230.228.249",
+      "VersionDev": "240",
+      "Port": 35003,
+      "QueryPort": 35003
+    },
+      {
       "Название сервера": "Fine Rust 240 DEV test",
       "Ip": "37.230.228.249",
       "VersionDev": "240",
