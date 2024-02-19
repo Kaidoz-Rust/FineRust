@@ -22,15 +22,15 @@
       "Название сервера": "Fine Rust 240 DEV AIM",
       "Ip": "37.230.228.249",
       "VersionDev": "240",
-      "Port": 35000,
-      "QueryPort": 35000
+      "Port": 35005,
+      "QueryPort": 35006
     },
     {
       "Название сервера": "Fine Rust 240 DEV SEMI CLASSIC",
       "Ip": "37.230.228.249",
       "VersionDev": "240",
-      "Port": 35005,
-      "QueryPort": 35006
+      "Port": 35001,
+      "QueryPort": 35002
     }
   ]
 }
