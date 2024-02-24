@@ -17,13 +17,13 @@
       "VersionDev": "240",
       "Port": 35001,
       "QueryPort": 35002
-    }
+    },
     {
       "Название сервера": "Fine Rust 240 DEV QUAD | X2-X5",
       "Ip": "37.230.228.249",
       "VersionDev": "240",
       "Port": 35003,
       "QueryPort": 35004
-    },
+    }
   ]
 }
