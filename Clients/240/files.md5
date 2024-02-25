@@ -1,4 +1,5 @@
 \doorstop_config.ini:956b3ee0
+\EasyAntiCheat.dll:3e825f52
 \winhttp.dll:81b530cc
 \BepInEx\cache\chainloader_typeloader.dat:766321c0
 \BepInEx\config\BepInEx.cfg:60b6f6b4
@@ -414,6 +415,7 @@
 \BepInEx\unity-libs\UnityEngine.VRModule.dll:7b5b3809
 \BepInEx\unity-libs\UnityEngine.WindModule.dll:9ef184bf
 \BepInEx\unity-libs\UnityEngine.XRModule.dll:da3c1254
+\RustClient_Data\Plugins\x86_64\EasyAntiCheat.dll:3e825f52
 \RustClient_Data\StreamingAssets\MenuVideo\workcart.mp4:de0de5bd
 \workshop\25022024753\icon.jpg:ba1802cc
 \workshop\25022024753\icon.png:ba1802cc
