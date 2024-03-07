@@ -1,5 +1,4 @@
 \doorstop_config.ini:956b3ee0
-\EasyAntiCheat.dll:3e825f52
 \winhttp.dll:81b530cc
 \BepInEx\cache\chainloader_typeloader.dat:766321c0
 \BepInEx\config\BepInEx.cfg:60b6f6b4
@@ -417,7 +416,20 @@
 \BepInEx\unity-libs\UnityEngine.XRModule.dll:da3c1254
 \RustClient_Data\Plugins\x86_64\EasyAntiCheat.dll:3e825f52
 \RustClient_Data\StreamingAssets\MenuVideo\workcart.mp4:de0de5bd
+\workshop\010320242303\icon.jpg:1e1d5158
+\workshop\010320242303\icon.png:1e1d5158
+\workshop\010320242303\icon_background.png:1e1d5158
+\workshop\010320242303\manifest.txt:56585de1
+\workshop\010320242304\manifest.txt:56585de1
+\workshop\070320241002\icon.jpg:c1a5a9dc
+\workshop\070320241002\icon.png:c1a5a9dc
+\workshop\070320241002\icon_background.png:c1a5a9dc
+\workshop\070320241002\manifest.txt:56585de1
+\workshop\250220241071\icon.jpg:4b10908e
+\workshop\250220241071\icon.png:d8dc6bfb
+\workshop\250220241071\icon_background.png:29a870fe
+\workshop\250220241071\manifest.txt:56585de1
 \workshop\25022024753\icon.jpg:ba1802cc
 \workshop\25022024753\icon.png:ba1802cc
 \workshop\25022024753\icon_background.png:ba1802cc
-\workshop\25022024753\manifest.txt:62038109
+\workshop\25022024753\manifest.txt:56585de1
