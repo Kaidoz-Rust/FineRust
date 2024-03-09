@@ -248,16 +248,6 @@
     "Servers":{
        "Official":[
           {
-             "Address": "127.0.0.1",
-             "Port": 28015,
-             "Tags": ""
-          },
-          {
-             "Address": "127.0.0.1",
-             "Port": 28017,
-             "Tags": ""
-          },
-          {
              "Address": "37.230.228.249",
              "Port": 35005,
              "Tags": ""
