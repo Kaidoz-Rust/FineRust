@@ -288,6 +288,7 @@
              "18.190.155.229",
              "193.164.16.124",
              "188.165.254.149",
+             "62.122.213.120",
              "185.186.143.252"
          ]
     },
@@ -310,10 +311,11 @@
           "https://files.facepunch.com/Alistair/04/07/0I73V1/forest_01.jpg",
           "https://files.facepunch.com/Alistair/04/07/7D72P1/doorcamp_01.jpg",
           "https://files.facepunch.com/Alistair/04/07/8648Z1/nvg_tactical_01.jpg",
-          "https://files.facepunch.com/paddy/20220506/trains_aboveground_01.jpg"
+          "https://i.postimg.cc/SNnX0tDt/trains-aboveground-01.jpg"
        ],
        "BlockedServers":[
           "91.214.70.66",
+          "62.122.213.120",
           "83.69.248.89",
           "31.31.203.58",
           "77.232.39.251",
