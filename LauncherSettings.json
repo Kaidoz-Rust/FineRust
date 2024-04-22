@@ -17,6 +17,13 @@
       "VersionDev": "240",
       "Port": 35001,
       "QueryPort": 35002
+    },
+    {
+      "Название сервера": "Fine Rust 240 DEV | X2-X5 | MAX4",
+      "Ip": "46.174.52.57",
+      "VersionDev": "240",
+      "Port": 10009,
+      "QueryPort": 10009
     }
   ]
 }
